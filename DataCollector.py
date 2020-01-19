@@ -104,11 +104,11 @@ for y in range(len(month_list)):
 #PItagTotalizer()  ####need to have time pulled exactly from 6:00:00 AM to 6:00:00 AM everyday  then sum the list and divide by minutes in day 1440
 # here are my PiTags! Sulfide, Carbonate, Acid Flow and Tonage Flow
 d = {
-    's':"AC_LECO_Assay_Surge_Tnk_Sulfide_Wt.%_Man_Hr",
-    'c':"AC_LECO_Assay_Surge_Tnk_CO3_Wt.%_Man_Hr",
-    'o1':"AC_Acdl_Acid_TTL_Disch_GPM_DCS_Cont",
-    'o2':"L_SIMA_AC_Mill_RIL_Feed_Tons_Day",
-    'R':"AC_LECO_Assay_Tnk_606_Disch_A/C_Feed_CO3_Sulfide_Ratio_Man_Hr",
+    's':"",
+    'c':"",
+    'o1':"",
+    'o2':"",
+    'R':"",
     }
 
 #Making a bunch of lists to use later for Data formatting    
